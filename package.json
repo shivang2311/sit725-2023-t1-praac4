@@ -1,0 +1,23 @@
+{
+  "name": "sit725-2023-t1-prac",
+  "version": "1.0.0",
+  "description": "sit 725 T1 week 4 prac",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.4.1"
+  }
+}
